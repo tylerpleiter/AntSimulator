@@ -5,7 +5,7 @@ This project started as a way to gain experience in C++, game design, and 3D mod
 
 At the moment, the basic ant model is complete, along with the custom C++ movement controller and basic animations.
 
-![alt text](https://github.com/tylerpleiter/AntSimulator/blob/main/Images/AntScreenshot.png "Ant Model")
+![alt text](https://github.com/tylerpleiter/AntSimulator/blob/main/Images/AntScreenshot2.png "Ant Model")
 
 The world will be voxel based, with the preference of using an existing library, to allow for digging and 3D ant nests.
 
